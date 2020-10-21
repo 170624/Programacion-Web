@@ -1,0 +1,56 @@
+html {
+  font-size:  6px;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDlQkZrS8A04cRwk-kqdaKltbxc-sx9rwHMw&usqp=CAU) bottom center;
+  background-size: auto;
+}
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.keys {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  margin: auto 10%;
+  flex-wrap: wrap;
+}
+.key {
+  border: 0.4rem solid black;
+  margin: 2rem;
+  font-size: 1rem;
+  padding: .5rem .5rem;
+  transition: all .07s ease;
+  width: 6rem;
+  text-align: center;
+  color: white;
+  background: rgba(0,0,0,0.4);
+  text-shadow: 0 0 2.5rem black;
+  box-shadow: -2px 2px 6px 0px rgb(189, 38, 0);
+  height: 12rem;
+}
+.playing {
+  transform: scale(1.1);
+  border-color: #c50505;
+  box-shadow: 0 0 1rem #c50505;
+}
+kbd {
+  display: block;
+  font-size: 9rem;
+}
+.sound {
+  font-size: 3.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  color: #c50505;
+}
+.v-h {
+  visibility: hidden;
+}
+.main {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  min-height: 100vh;
+}
