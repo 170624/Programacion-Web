@@ -1,0 +1,32 @@
+
+    #wrapper{
+     text-align:left;
+    margin:0 auto;
+    padding-bottom:20px;
+    background:#B70505;
+    width:300px;
+    float: right;
+    border:1px solid #ACD8F0; }
+  
+#messages {
+    width:100px;
+    border:1px solid #0387D3; 
+}
+#users {
+    width:100px;
+    border:1px solid #0387D3; 
+    color: green;
+    position: fixed; 
+    bottom: 0; 
+    right: 0;
+}
+#chatbox {
+    text-align:left;
+    margin:0 auto;
+    margin-bottom:25px;
+    padding:10px;
+    background:#B70505;
+    height:270px;
+    width:300px;
+    border:1px solid #0387D3;
+    overflow:auto; }

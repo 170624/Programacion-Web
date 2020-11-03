@@ -1,3 +1,4 @@
+  
 var express = require("express");
 var app = express();
 var server = require("http").Server(app);
@@ -7,6 +8,12 @@ var messages = [
 	{
 		id: 1,
 		text: `Hello`,
+		author: `Jesus Rios`,
+	},
+];
+var users = [
+	{
+		id: 1,
 		author: `Jesus Rios`,
 	},
 ];
@@ -28,6 +35,8 @@ io.on("connection", (socket) => {
 
 	socket.on("new-message", (data) => {
 		messages.push(data);
+
+		users.push(data);
 		console.log(data);
 
 		io.sockets.emit("messages", messages);
@@ -36,4 +45,5 @@ io.on("connection", (socket) => {
 
 server.listen(8080, () => {
 	console.log("Server is running in http://localhost:8080");
+
 });
