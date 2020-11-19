@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webservices</title>
+</head>
+<body>
+    <h1>Webservices</h1>
+
+    <div>
+        <h1>PERSONS</h1>
+        <div id="persons">
+    
+        </div>
+    
+        <br/>
+    
+        <form onsubmit="return addPerson(this)">
+            <input type="text" id="name" placeholder="Type name"required>
+            <input type="text" id="lastname" placeholder="Type lastname"required>
+    
+            <input type="submit" value="Send">
+        </form>
+    </div>
+
+    <div>
+        <h1>Cars</h1>
+        <div id="cars">
+    
+        </div>
+    
+        <br/>
+resuelto
+        <form onsubmit="return addCar(this)">
+            <input type="text" id="make" placeholder="Type make" required>
+            <input type="text" id="model" placeholder="Type model"required>
+            <input type="text" id="year" placeholder="Type year"required>
+    
+            <input type="submit" value="Send">
+        </form>
+    </div>
+    <script src="js/scripts.js"></script>
+</body>
+</html>

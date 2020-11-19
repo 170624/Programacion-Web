@@ -1,0 +1,17 @@
+[
+  {
+    "make": "marca",
+    "model": "modelo",
+    "year": "year"
+  },
+  {
+    "make": "Toyota ",
+    "model": "toyotita",
+    "year": "2020"
+  },
+  {
+    "make": "Toyota 2",
+    "model": "toyotita2",
+    "year": "2021"
+  }
+]
