@@ -1,0 +1,13 @@
+﻿@model List<TestApp.Library.DAL.Models.Cars_Jorge>
+@{
+    ViewData["Title"] = "Cars_Jorge";
+}
+holapapito
+<div class="text-center">
+    <h1 class="display-4">Cars</h1>
+</div>
+
+@foreach (var car in Model)
+{
+    <partial name="CarPV" model="car" />
+}
