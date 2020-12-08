@@ -1,0 +1,91 @@
+  
+.row-header{
+	margin: 0px auto;
+	padding: 0px auto;
+	color: #000000;
+}
+.row-content{
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+	color: #000000;
+}
+.row-footer{
+
+	background-color: #000000;
+	margin: 0px auto;
+	padding: 0px 0px 0px 0px;
+	color: #f0f0f0;
+}
+
+.jumbotron{
+	padding: 120px 30px 120px 30px;
+	margin: 0px auto;
+	background: #75081a;
+	color: rgb(2, 2, 2);
+}
+address{
+	font-size: 80%;
+	margin: 0px;
+	color: #ffffff;
+
+}
+body{
+	align:left;
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+}
+.navbar-inverse{
+	background: #000000;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+	color: rgb(0, 0, 0);
+	background: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus{
+	color: #fff;
+	background: #000000;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
+.navbar-inverse .navbar-nav .open .dropdown-menu{
+	background-color: #000000;
+	color: #eeeeee;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover{
+	color:#303F9F;
+	background-color:#eeeeee; 
+}
+ul.breadcrumb{
+	padding: 8px 16px;
+    list-style: none;
+    background-color: #eee;
+}
+ul.breadcrumb li {display: inline;}
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: black;
+    content: "/\00a0";
+}
+ul.breadcrumb li a {color: #000000;}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.affix{
+    top:100px;
+}
+
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 200px;
+}
