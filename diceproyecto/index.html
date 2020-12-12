@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Dice Game </title>
+		Dice Game
+		<link
+			href="https://fonts.googleapis.com/css?family=Bangers&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="../css/styles.css" />
+	</head>
+	<body>
+		<div class="info-game">
+			<div id="movimientos">Puntos P1: 0</div>
+			<div id="movimientos2">Puntos P2: 0</div>
+			<button class="noSelect" onclick="nuevojuego()">
+				Juego nuevo
+			</button>
+			<button class="noSelect" onclick="girar()">
+				Girar
+			</button>
+			<button class="noSelect" onclick="cambiarjugador()">
+				Salvar
+			</button>
+		</div>
+		<div class="row row-content align-items-center">
+			<div>Player1</div>
+			<div id="prueba1">Puntos Temp: 0</div>
+		</div>
+		<div class="row row-content align-items-center">
+			<div id="jugando">jugando:</div>
+		</div>
+		<div class="row row-content align-items-center">
+			<div>PLAYER2</div>
+			<div id="temp2">Puntos Temp: 0</div>
+		</div>
+		<div id="dado1" class="dado1"></div>
+		<div id="dado2" class="dado2"></div>
+		<div id="dado3" class="dado3"></div>
+		<div id="dado4" class="dado4"></div>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+		<script src="../js/index.js"></script>
+	</body>
+</html>
