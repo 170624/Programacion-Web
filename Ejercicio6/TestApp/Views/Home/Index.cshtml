@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    SessionViewModel sessionObject = Context.Session.GetJson<SessionViewModel>("SessionObject") ?? new SessionViewModel();
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="text-center">
+    <a target="_blank" asp-action="DownloadFile">Download file</a>
+</div>
+<div class="text-center">
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <label class="text-danger">@ViewBag.ErrorMessage</label>
+    }
+</div>
+<div class="float-right">
+    <span>@sessionObject.FirstNames</span>
+    <span>@sessionObject.LastNames</span>
+    <span>@sessionObject.UserId</span>
+   
+</div>
+<label class="custom-text-green">Hola</label>

@@ -1,0 +1,34 @@
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.deps.json
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.runtimeconfig.json
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.runtimeconfig.dev.json
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.dll
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.pdb
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.csprojAssemblyReference.cache
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.AssemblyInfoInputs.cache
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.AssemblyInfo.cs
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.dll
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.pdb
+C:\Users\etxcoding\Desktop\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.deps.json
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.runtimeconfig.json
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.runtimeconfig.dev.json
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.dll
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.pdb
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.dll
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.pdb
+C:\Users\jorge\OneDrive\Desktop\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.genruntimeconfig.cache
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.deps.json
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.runtimeconfig.json
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.runtimeconfig.dev.json
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.dll
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\bin\Debug\netcoreapp3.1\TestApp.Library.pdb
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.csprojAssemblyReference.cache
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.AssemblyInfoInputs.cache
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.AssemblyInfo.cs
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.dll
+C:\Users\jorge\Downloads\RespaldoPcGamer\Programacion Web\programacionweb\TestApp\TestApp.Library\obj\Debug\netcoreapp3.1\TestApp.Library.pdb
